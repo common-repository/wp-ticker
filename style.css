@@ -1,0 +1,22 @@
+.ticker_content {
+  height: 150px;
+  width:200px;
+  border:solid 1px #0070C0;
+  background:#EFEFEF;
+  padding:5px;
+  overflow:hidden;
+}
+
+
+.avatar {
+  float:left;
+  margin-right: 5px;
+}
+
+.tic_owntext_item {
+  margin-bottom:20px;
+}
+
+.loader {
+  margin:40px 0 0 40px;
+}
